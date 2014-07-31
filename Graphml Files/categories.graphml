@@ -1,0 +1,906 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Drugstores">
+      <data key="d0">1</data>
+    </node>
+    <node id="Dry Cleaning &amp; Laundry">
+      <data key="d0">1</data>
+    </node>
+    <node id="Buffets">
+      <data key="d0">1</data>
+    </node>
+    <node id="Arts &amp; Entertainment">
+      <data key="d0">1</data>
+    </node>
+    <node id="Sandwiches">
+      <data key="d0">1</data>
+    </node>
+    <node id="Pets">
+      <data key="d0">1</data>
+    </node>
+    <node id="Sushi Bars">
+      <data key="d0">1</data>
+    </node>
+    <node id="Chiropractors">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fitness &amp; Instruction">
+      <data key="d0">1</data>
+    </node>
+    <node id="Juice Bars &amp; Smoothies">
+      <data key="d0">1</data>
+    </node>
+    <node id="Italian">
+      <data key="d0">1</data>
+    </node>
+    <node id="Pet Boarding/Pet Sitting">
+      <data key="d0">1</data>
+    </node>
+    <node id="Men's Clothing">
+      <data key="d0">1</data>
+    </node>
+    <node id="Grocery">
+      <data key="d0">1</data>
+    </node>
+    <node id="Salad">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hair Removal">
+      <data key="d0">1</data>
+    </node>
+    <node id="Gas &amp; Service Stations">
+      <data key="d0">1</data>
+    </node>
+    <node id="Shoe Stores">
+      <data key="d0">1</data>
+    </node>
+    <node id="Nightlife">
+      <data key="d0">1</data>
+    </node>
+    <node id="Sporting Goods">
+      <data key="d0">1</data>
+    </node>
+    <node id="Restaurants">
+      <data key="d0">1</data>
+    </node>
+    <node id="Steakhouses">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fashion">
+      <data key="d0">1</data>
+    </node>
+    <node id="Thrift Stores">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mediterranean">
+      <data key="d0">1</data>
+    </node>
+    <node id="Accessories">
+      <data key="d0">1</data>
+    </node>
+    <node id="Active Life">
+      <data key="d0">1</data>
+    </node>
+    <node id="Department Stores">
+      <data key="d0">1</data>
+    </node>
+    <node id="Delis">
+      <data key="d0">1</data>
+    </node>
+    <node id="Venues &amp; Event Spaces">
+      <data key="d0">1</data>
+    </node>
+    <node id="Automotive">
+      <data key="d0">1</data>
+    </node>
+    <node id="Tex-Mex">
+      <data key="d0">1</data>
+    </node>
+    <node id="Event Planning &amp; Services">
+      <data key="d0">1</data>
+    </node>
+    <node id="Chicken Wings">
+      <data key="d0">1</data>
+    </node>
+    <node id="Jewelry">
+      <data key="d0">1</data>
+    </node>
+    <node id="Home &amp; Garden">
+      <data key="d0">1</data>
+    </node>
+    <node id="Beauty &amp; Spas">
+      <data key="d0">1</data>
+    </node>
+    <node id="Breakfast &amp; Brunch">
+      <data key="d0">1</data>
+    </node>
+    <node id="Oil Change Stations">
+      <data key="d0">1</data>
+    </node>
+    <node id="Banks &amp; Credit Unions">
+      <data key="d0">1</data>
+    </node>
+    <node id="Nail Salons">
+      <data key="d0">1</data>
+    </node>
+    <node id="Car Wash">
+      <data key="d0">1</data>
+    </node>
+    <node id="Shopping">
+      <data key="d0">1</data>
+    </node>
+    <node id="Desserts">
+      <data key="d0">1</data>
+    </node>
+    <node id="Coffee &amp; Tea">
+      <data key="d0">1</data>
+    </node>
+    <node id="Optometrists">
+      <data key="d0">1</data>
+    </node>
+    <node id="Lounges">
+      <data key="d0">1</data>
+    </node>
+    <node id="Contractors">
+      <data key="d0">1</data>
+    </node>
+    <node id="Thai">
+      <data key="d0">1</data>
+    </node>
+    <node id="Skin Care">
+      <data key="d0">1</data>
+    </node>
+    <node id="Women's Clothing">
+      <data key="d0">1</data>
+    </node>
+    <node id="Cafes">
+      <data key="d0">1</data>
+    </node>
+    <node id="Gyms">
+      <data key="d0">1</data>
+    </node>
+    <node id="Greek">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hardware Stores">
+      <data key="d0">1</data>
+    </node>
+    <node id="Massage">
+      <data key="d0">1</data>
+    </node>
+    <node id="Ice Cream &amp; Frozen Yogurt">
+      <data key="d0">1</data>
+    </node>
+    <node id="Bars">
+      <data key="d0">1</data>
+    </node>
+    <node id="Chinese">
+      <data key="d0">1</data>
+    </node>
+    <node id="Burgers">
+      <data key="d0">1</data>
+    </node>
+    <node id="Asian Fusion">
+      <data key="d0">1</data>
+    </node>
+    <node id="Home Decor">
+      <data key="d0">1</data>
+    </node>
+    <node id="Health &amp; Medical">
+      <data key="d0">1</data>
+    </node>
+    <node id="Veterinarians">
+      <data key="d0">1</data>
+    </node>
+    <node id="Real Estate">
+      <data key="d0">1</data>
+    </node>
+    <node id="Cosmetic Dentists">
+      <data key="d0">1</data>
+    </node>
+    <node id="Performing Arts">
+      <data key="d0">1</data>
+    </node>
+    <node id="Trainers">
+      <data key="d0">1</data>
+    </node>
+    <node id="Pet Groomers">
+      <data key="d0">1</data>
+    </node>
+    <node id="Pet Services">
+      <data key="d0">1</data>
+    </node>
+    <node id="Barbeque">
+      <data key="d0">1</data>
+    </node>
+    <node id="Pet Stores">
+      <data key="d0">1</data>
+    </node>
+    <node id="American (New)">
+      <data key="d0">1</data>
+    </node>
+    <node id="Diners">
+      <data key="d0">1</data>
+    </node>
+    <node id="Sports Bars">
+      <data key="d0">1</data>
+    </node>
+    <node id="Doctors">
+      <data key="d0">1</data>
+    </node>
+    <node id="Auto Parts &amp; Supplies">
+      <data key="d0">1</data>
+    </node>
+    <node id="Bakeries">
+      <data key="d0">1</data>
+    </node>
+    <node id="Used, Vintage &amp; Consignment">
+      <data key="d0">1</data>
+    </node>
+    <node id="General Dentistry">
+      <data key="d0">1</data>
+    </node>
+    <node id="Printing Services">
+      <data key="d0">1</data>
+    </node>
+    <node id="Barbers">
+      <data key="d0">1</data>
+    </node>
+    <node id="Golf">
+      <data key="d0">1</data>
+    </node>
+    <node id="Apartments">
+      <data key="d0">1</data>
+    </node>
+    <node id="Tires">
+      <data key="d0">1</data>
+    </node>
+    <node id="Wine Bars">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hair Salons">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hotels">
+      <data key="d0">1</data>
+    </node>
+    <node id="Vietnamese">
+      <data key="d0">1</data>
+    </node>
+    <node id="Shipping Centers">
+      <data key="d0">1</data>
+    </node>
+    <node id="Donuts">
+      <data key="d0">1</data>
+    </node>
+    <node id="Bagels">
+      <data key="d0">1</data>
+    </node>
+    <node id="Cosmetics &amp; Beauty Supply">
+      <data key="d0">1</data>
+    </node>
+    <node id="Parks">
+      <data key="d0">1</data>
+    </node>
+    <node id="Fast Food">
+      <data key="d0">1</data>
+    </node>
+    <node id="Home Services">
+      <data key="d0">1</data>
+    </node>
+    <node id="Eyewear &amp; Opticians">
+      <data key="d0">1</data>
+    </node>
+    <node id="Electronics">
+      <data key="d0">1</data>
+    </node>
+    <node id="Pizza">
+      <data key="d0">1</data>
+    </node>
+    <node id="Furniture Stores">
+      <data key="d0">1</data>
+    </node>
+    <node id="Food">
+      <data key="d0">1</data>
+    </node>
+    <node id="Heating &amp; Air Conditioning/HVAC">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hotels &amp; Travel">
+      <data key="d0">1</data>
+    </node>
+    <node id="Music Venues">
+      <data key="d0">1</data>
+    </node>
+    <node id="Specialty Food">
+      <data key="d0">1</data>
+    </node>
+    <node id="Florists">
+      <data key="d0">1</data>
+    </node>
+    <node id="Day Spas">
+      <data key="d0">1</data>
+    </node>
+    <node id="Seafood">
+      <data key="d0">1</data>
+    </node>
+    <node id="Flowers &amp; Gifts">
+      <data key="d0">1</data>
+    </node>
+    <node id="Local Services">
+      <data key="d0">1</data>
+    </node>
+    <node id="Arts &amp; Crafts">
+      <data key="d0">1</data>
+    </node>
+    <node id="Dentists">
+      <data key="d0">1</data>
+    </node>
+    <node id="Convenience Stores">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mexican">
+      <data key="d0">1</data>
+    </node>
+    <node id="Auto Repair">
+      <data key="d0">1</data>
+    </node>
+    <node id="American (Traditional)">
+      <data key="d0">1</data>
+    </node>
+    <node id="Japanese">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mobile Phones">
+      <data key="d0">1</data>
+    </node>
+    <node id="Books, Mags, Music &amp; Video">
+      <data key="d0">1</data>
+    </node>
+    <node id="Financial Services">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hot Dogs">
+      <data key="d0">1</data>
+    </node>
+    <node id="Beer, Wine &amp; Spirits">
+      <data key="d0">1</data>
+    </node>
+    <edge source="Drugstores" target="Food">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Drugstores" target="Cosmetics &amp; Beauty Supply">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Drugstores" target="Convenience Stores">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Drugstores" target="Shopping">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Drugstores" target="Beauty &amp; Spas">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Dry Cleaning &amp; Laundry" target="Local Services">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Buffets" target="Restaurants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Arts &amp; Entertainment" target="Performing Arts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Arts &amp; Entertainment" target="Shopping">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Arts &amp; Entertainment" target="Nightlife">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Arts &amp; Entertainment" target="Music Venues">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sandwiches" target="Food">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sandwiches" target="Delis">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sandwiches" target="Pizza">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sandwiches" target="Restaurants">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Pets" target="Pet Services">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Pets" target="Pet Groomers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pets" target="Pet Stores">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pets" target="Veterinarians">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Pets" target="Pet Boarding/Pet Sitting">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sushi Bars" target="Japanese">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sushi Bars" target="Restaurants">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chiropractors" target="Health &amp; Medical">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fitness &amp; Instruction" target="Gyms">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Fitness &amp; Instruction" target="Trainers">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Fitness &amp; Instruction" target="Active Life">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Juice Bars &amp; Smoothies" target="Food">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Italian" target="Pizza">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Italian" target="Restaurants">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pet Boarding/Pet Sitting" target="Pet Services">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Men's Clothing" target="Shopping">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Men's Clothing" target="Fashion">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Men's Clothing" target="Women's Clothing">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Grocery" target="Food">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Grocery" target="Shopping">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Salad" target="Restaurants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hair Removal" target="Beauty &amp; Spas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gas &amp; Service Stations" target="Food">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Gas &amp; Service Stations" target="Automotive">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Gas &amp; Service Stations" target="Convenience Stores">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Shoe Stores" target="Fashion">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Shoe Stores" target="Shopping">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Nightlife" target="Bars">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Nightlife" target="Sports Bars">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Nightlife" target="Lounges">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Nightlife" target="American (New)">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Nightlife" target="American (Traditional)">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Nightlife" target="Wine Bars">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Nightlife" target="Restaurants">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Nightlife" target="Music Venues">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sporting Goods" target="Shopping">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Restaurants" target="Chicken Wings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Restaurants" target="American (New)">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Restaurants" target="Breakfast &amp; Brunch">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Restaurants" target="Fast Food">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Restaurants" target="Pizza">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Restaurants" target="Food">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Restaurants" target="Vietnamese">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Restaurants" target="Diners">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Restaurants" target="Sports Bars">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Restaurants" target="Thai">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Restaurants" target="Barbeque">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Restaurants" target="Bakeries">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Restaurants" target="Seafood">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Restaurants" target="Cafes">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Restaurants" target="Bars">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Restaurants" target="Greek">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Restaurants" target="Steakhouses">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Restaurants" target="Mexican">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Restaurants" target="American (Traditional)">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Restaurants" target="Chinese">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Restaurants" target="Burgers">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Restaurants" target="Asian Fusion">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Restaurants" target="Mediterranean">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Restaurants" target="Japanese">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Restaurants" target="Coffee &amp; Tea">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Restaurants" target="Delis">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Restaurants" target="Hot Dogs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Restaurants" target="Tex-Mex">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Fashion" target="Used, Vintage &amp; Consignment">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Fashion" target="Shopping">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Fashion" target="Women's Clothing">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Fashion" target="Accessories">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Fashion" target="Department Stores">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Thrift Stores" target="Shopping">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Accessories" target="Shopping">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Accessories" target="Women's Clothing">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Active Life" target="Golf">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Active Life" target="Gyms">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Active Life" target="Parks">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Active Life" target="Trainers">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Department Stores" target="Shopping">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Delis" target="Food">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Venues &amp; Event Spaces" target="Event Planning &amp; Services">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Automotive" target="Car Wash">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Automotive" target="Auto Repair">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Automotive" target="Food">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Automotive" target="Convenience Stores">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Automotive" target="Tires">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Automotive" target="Oil Change Stations">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Automotive" target="Auto Parts &amp; Supplies">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Tex-Mex" target="Fast Food">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Tex-Mex" target="Mexican">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Event Planning &amp; Services" target="Hotels &amp; Travel">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Event Planning &amp; Services" target="Hotels">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jewelry" target="Shopping">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Home &amp; Garden" target="Home Decor">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Home &amp; Garden" target="Furniture Stores">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Home &amp; Garden" target="Shopping">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Home &amp; Garden" target="Hardware Stores">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Beauty &amp; Spas" target="Nail Salons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beauty &amp; Spas" target="Cosmetics &amp; Beauty Supply">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Beauty &amp; Spas" target="Shopping">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Beauty &amp; Spas" target="Skin Care">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beauty &amp; Spas" target="Day Spas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beauty &amp; Spas" target="Barbers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beauty &amp; Spas" target="Food">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Beauty &amp; Spas" target="Hair Salons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Beauty &amp; Spas" target="Convenience Stores">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Beauty &amp; Spas" target="Massage">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Breakfast &amp; Brunch" target="Food">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Oil Change Stations" target="Auto Repair">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Banks &amp; Credit Unions" target="Financial Services">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shopping" target="Arts &amp; Crafts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shopping" target="Cosmetics &amp; Beauty Supply">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Shopping" target="Electronics">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shopping" target="Eyewear &amp; Opticians">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shopping" target="Home Services">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shopping" target="Furniture Stores">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Shopping" target="Food">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Shopping" target="Used, Vintage &amp; Consignment">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Shopping" target="Florists">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Shopping" target="Women's Clothing">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Shopping" target="Flowers &amp; Gifts">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Shopping" target="Hardware Stores">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Shopping" target="Convenience Stores">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Shopping" target="Home Decor">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Shopping" target="Mobile Phones">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Shopping" target="Books, Mags, Music &amp; Video">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Desserts" target="Food">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Coffee &amp; Tea" target="Food">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Optometrists" target="Health &amp; Medical">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lounges" target="Bars">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Contractors" target="Home Services">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Gyms" target="Trainers">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Ice Cream &amp; Frozen Yogurt" target="Food">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bars" target="Sports Bars">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Bars" target="American (New)">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Bars" target="American (Traditional)">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Bars" target="Wine Bars">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Burgers" target="American (Traditional)">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Burgers" target="Fast Food">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Health &amp; Medical" target="Dentists">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Health &amp; Medical" target="General Dentistry">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Health &amp; Medical" target="Doctors">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Health &amp; Medical" target="Cosmetic Dentists">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Real Estate" target="Home Services">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Real Estate" target="Apartments">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cosmetic Dentists" target="Dentists">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Pet Groomers" target="Pet Services">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Sports Bars" target="American (Traditional)">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Bakeries" target="Food">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="General Dentistry" target="Dentists">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Printing Services" target="Local Services">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Apartments" target="Home Services">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Tires" target="Auto Repair">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Hotels" target="Hotels &amp; Travel">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Shipping Centers" target="Local Services">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Donuts" target="Food">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bagels" target="Food">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cosmetics &amp; Beauty Supply" target="Food">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Cosmetics &amp; Beauty Supply" target="Convenience Stores">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Fast Food" target="Mexican">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Home Services" target="Heating &amp; Air Conditioning/HVAC">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Food" target="Specialty Food">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Food" target="Beer, Wine &amp; Spirits">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Food" target="Convenience Stores">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Florists" target="Flowers &amp; Gifts">
+      <data key="d1">2</data>
+    </edge>
+  </graph>
+</graphml>

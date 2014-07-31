@@ -1,0 +1,54 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Bars" />
+    <node id="Shopping" />
+    <node id="Drugstores" />
+    <node id="American (Traditional)" />
+    <node id="Beauty &amp; Spas" />
+    <node id="Cosmetics &amp; Beauty Supply" />
+    <node id="Food" />
+    <node id="Nightlife" />
+    <node id="Convenience Stores" />
+    <node id="Restaurants" />
+    <edge source="Bars" target="American (Traditional)">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Bars" target="Nightlife">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Bars" target="Restaurants">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Shopping" target="Food">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Shopping" target="Cosmetics &amp; Beauty Supply">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Shopping" target="Convenience Stores">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Drugstores" target="Cosmetics &amp; Beauty Supply">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="American (Traditional)" target="Nightlife">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="American (Traditional)" target="Restaurants">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Beauty &amp; Spas" target="Cosmetics &amp; Beauty Supply">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Beauty &amp; Spas" target="Convenience Stores">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Food" target="Convenience Stores">
+      <data key="d0">19</data>
+    </edge>
+    <edge source="Food" target="Restaurants">
+      <data key="d0">6</data>
+    </edge>
+  </graph>
+</graphml>
